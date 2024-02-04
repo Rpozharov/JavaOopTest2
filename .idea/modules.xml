@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaOopTest2.iml" filepath="$PROJECT_DIR$/JavaOopTest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RangeTest/RangeTest.iml" filepath="$PROJECT_DIR$/RangeTest/RangeTest.iml" />
+    </modules>
+  </component>
+</project>
