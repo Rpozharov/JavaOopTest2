@@ -10,6 +10,8 @@ public class RangeMain {
 
         System.out.println("array1 = " + Arrays.toString(array1));
         System.out.println("array2 = " + Arrays.toString(array2));
-        System.out.println("array3 = " + Arrays.toString(array2));
+        System.out.println("array3 = " + Arrays.toString(array3));
+
+        System.out.println("test 1");
     }
 }
